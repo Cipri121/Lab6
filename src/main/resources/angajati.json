@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Ion",
+    "post": "bucatar",
+    "data_angajarii": "2012-02-23",
+    "salar": 2500.0
+  },
+  {
+    "nume": "Cristi",
+    "post": "gunoier",
+    "data_angajarii": "2015-04-20",
+    "salar": 2000.0
+  },
+  {
+    "nume": "Alex",
+    "post": "inginer",
+    "data_angajarii": "2018-07-19",
+    "salar": 5000.0
+  },
+  {
+    "nume": "Alex",
+    "post": "director",
+    "data_angajarii": "2018-07-19",
+    "salar": 10000.0
+  },
+  {
+    "nume": "Andrei",
+    "post": "gradinar",
+    "data_angajarii": "2016-02-20",
+    "salar": 2510.0
+  }
+]
